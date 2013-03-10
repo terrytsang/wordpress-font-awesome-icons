@@ -42,57 +42,68 @@ Example
 
 ### HTML
 
-1. Icons Only
-<blockquote><i class="icon-ok"></i></code></blockquote>
++ Icons Only
 
-2. Inline Icons
-<blockquote><i class="icon-ok"></i> Icon OK</blockquote>
+`<i class="icon-ok"></i>`
 
-3. Icons Text with Link URL
-<blockquote><a href="www.example.com"><i class="icon-ok"></i> Icon OK</a></blockquote>
 
-4. Icons Text with Link URL (New Window/Tab)
-<blockquote><a href="www.example.com" target="_blank"><i class="icon-ok"></i> Icon OK</a></blockquote>
++ Inline Icons
 
-5. Larger Icons
-<blockquote><p><i class="icon-ok icon-large"></i> Icon OK</p>
+`i class="icon-ok"></i> Icon OK`
+
+
++ Icons Text with Link URL
+
+`<a href="www.example.com"><i class="icon-ok"></i> Icon OK</a>`
+
+
++ Icons Text with Link URL (New Window/Tab)
+
+`<a href="www.example.com" target="_blank"><i class="icon-ok"></i> Icon OK</a>`
+
+
++ Larger Icons
+
+`<p><i class="icon-ok icon-large"></i> Icon OK</p>
 <p><i class="icon-ok icon-2x"></i> Icon OK Large</p>
 <p><i class="icon-ok icon-3x"></i> Icon OK Larger</p>
-<p><i class="icon-ok icon-4x"></i> Icon OK Largest</p></blockquote>
+<p><i class="icon-ok icon-4x"></i> Icon OK Largest</p>`
 
-6. Lists
-<blockquote><ul class="icons" style="list-style:none">
+
++ Lists
+
+`<ul class="icons" style="list-style:none">
     <li><i class="icon-ok"></i> Lists</li>
     <li><i class="icon-ok"></i> Buttons</li>
     <li><i class="icon-ok"></i> Button groups</li>
     <li><i class="icon-ok"></i> Navigation</li>
     <li><i class="icon-ok"></i> Prepended form inputs</li>
-</ul></blockquote>
+</ul>`
 
  
 ### Shortcode
 
-1. Icons Only
++ Icons Only
 
 <blockquote>[icon name="icon-ok"]</blockquote>
 
 
-2. Inline Icons
++ Inline Icons
 
 <blockquote>[icon name="icon-ok"] Icon OK[/icon]</blockquote>
 
 
-3. Icons Text with Link URL
++ Icons Text with Link URL
 
 <blockquote>[icon name="icon-ok" url="www.example.com"] Icon OK[/icon]</blockquote>
 
 
-4. Icons Text with Link URL (New Window/Tab)
++ Icons Text with Link URL (New Window/Tab)
 
 <blockquote>[icon name="icon-ok" url="www.example.com" target="_blank"] Icon OK[/icon]</blockquote>
 
 
-5. Larger Icons
++ Larger Icons
 
 <blockquote><p>[icon name="icon-ok icon-large"] Icon OK[/icon]</p>
 <p>[icon name="icon-ok icon-2x"] Icon OK Large[/icon]</p>
@@ -100,7 +111,7 @@ Example
 <p>[icon name="icon-ok icon-4x"] Icon OK Largest[/icon]</p></blockquote>
 
 
-6. Lists
++ Lists
 
 <blockquote>[iconlists name="icon-ok"] Lists|Buttons|Button groups|NavigationPrepended form inputs[/iconlists]</blockquote>
 
