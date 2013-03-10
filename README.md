@@ -34,7 +34,7 @@ text editor new icons to add font awesome icons to post/page content, widget, po
 
 More code examples on the Font Awesome Icons please refer: http://fortawesome.github.com/Font-Awesome/#code
 
-For all 249 icons name, please user the doc/font-awesome-icons-list.pdf as reference.
+For all 249 icons name, please use the doc/font-awesome-icons-list.pdf as reference.
 
 
 Example Shortcode
