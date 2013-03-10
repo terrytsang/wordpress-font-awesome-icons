@@ -37,73 +37,30 @@ More code examples on the Font Awesome Icons please refer: http://fortawesome.gi
 For all 249 icons name, please user the doc/font-awesome-icons-list.pdf as reference.
 
 
-Example
---------
+Example Shortcode
+-----------------
 
-### HTML
-
-+ Icons Only
-
-`<i class="icon-ok"></i>`
-
-
-+ Inline Icons
-
-`i class="icon-ok"></i> Icon OK`
-
-
-+ Icons Text with Link URL
-
-`<a href="www.example.com"><i class="icon-ok"></i> Icon OK</a>`
-
-
-+ Icons Text with Link URL (New Window/Tab)
-
-`<a href="www.example.com" target="_blank"><i class="icon-ok"></i> Icon OK</a>`
-
-
-+ Larger Icons
-
-`<p><i class="icon-ok icon-large"></i> Icon OK</p>
-<p><i class="icon-ok icon-2x"></i> Icon OK Large</p>
-<p><i class="icon-ok icon-3x"></i> Icon OK Larger</p>
-<p><i class="icon-ok icon-4x"></i> Icon OK Largest</p>`
-
-
-+ Lists
-
-`<ul class="icons" style="list-style:none">
-    <li><i class="icon-ok"></i> Lists</li>
-    <li><i class="icon-ok"></i> Buttons</li>
-    <li><i class="icon-ok"></i> Button groups</li>
-    <li><i class="icon-ok"></i> Navigation</li>
-    <li><i class="icon-ok"></i> Prepended form inputs</li>
-</ul>`
-
- 
-### Shortcode
-
-+ Icons Only
+1.  Icons Only
 
 <blockquote>[icon name="icon-ok"]</blockquote>
 
 
-+ Inline Icons
+2.  Inline Icons
 
 <blockquote>[icon name="icon-ok"] Icon OK[/icon]</blockquote>
 
 
-+ Icons Text with Link URL
+3.  Icons Text with Link URL
 
 <blockquote>[icon name="icon-ok" url="www.example.com"] Icon OK[/icon]</blockquote>
 
 
-+ Icons Text with Link URL (New Window/Tab)
+4.  Icons Text with Link URL (New Window/Tab)
 
 <blockquote>[icon name="icon-ok" url="www.example.com" target="_blank"] Icon OK[/icon]</blockquote>
 
 
-+ Larger Icons
+5.  Larger Icons
 
 <blockquote><p>[icon name="icon-ok icon-large"] Icon OK[/icon]</p>
 <p>[icon name="icon-ok icon-2x"] Icon OK Large[/icon]</p>
@@ -111,7 +68,7 @@ Example
 <p>[icon name="icon-ok icon-4x"] Icon OK Largest[/icon]</p></blockquote>
 
 
-+ Lists
+6.  Lists
 
 <blockquote>[iconlists name="icon-ok"] Lists|Buttons|Button groups|NavigationPrepended form inputs[/iconlists]</blockquote>
 
