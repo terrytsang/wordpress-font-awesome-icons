@@ -40,27 +40,27 @@ For all 249 icons name, please user the doc/font-awesome-icons-list.pdf as refer
 Example Shortcode
 -----------------
 
-1.  Icons Only
+### Icons Only ###
 
 <blockquote>[icon name="icon-ok"]</blockquote>
 
 
-2.  Inline Icons
+### Inline Icons ###
 
 <blockquote>[icon name="icon-ok"] Icon OK[/icon]</blockquote>
 
 
-3.  Icons Text with Link URL
+### Icons Text with Link URL ###
 
 <blockquote>[icon name="icon-ok" url="www.example.com"] Icon OK[/icon]</blockquote>
 
 
-4.  Icons Text with Link URL (New Window/Tab)
+### Icons Text with Link URL (New Window/Tab) ###
 
 <blockquote>[icon name="icon-ok" url="www.example.com" target="_blank"] Icon OK[/icon]</blockquote>
 
 
-5.  Larger Icons
+### Larger Icons ###
 
 <blockquote><p>[icon name="icon-ok icon-large"] Icon OK[/icon]</p>
 <p>[icon name="icon-ok icon-2x"] Icon OK Large[/icon]</p>
@@ -68,7 +68,7 @@ Example Shortcode
 <p>[icon name="icon-ok icon-4x"] Icon OK Largest[/icon]</p></blockquote>
 
 
-6.  Lists
+### Lists ###
 
 <blockquote>[iconlists name="icon-ok"] Lists|Buttons|Button groups|NavigationPrepended form inputs[/iconlists]</blockquote>
 
