@@ -6,16 +6,25 @@ Use Font Awesome Icons on your Wordpress site and you can either use html code o
 Plugin Name
 ------------
 Contributors: terrytsang
+
 Plugin Name: Wordpress Font Awesome Icons
+
 Plugin URI:  http://www.terrytsang.com/
+
 Tags: wordpress, font awesome, icons, lists, buttons, social
+
 Requires at least: 3.0
+
 Tested up to: 3.5.1
+
 Stable tag: 1.0.0
+
 Version: 1.0.0
+
 Credits: Font Awesome by Dave Gandy - http://fortawesome.github.com/Font-Awesome
 
 Use Font Awesome Icons on your Wordpress site and you can either use html code or shortcode.
+
 
 Description
 -----------
@@ -34,55 +43,66 @@ Example
 ### HTML
 
 1. Icons Only
-<code><i class="icon-ok"></i></code>
+<blockquote><i class="icon-ok"></i></code></blockquote>
 
 2. Inline Icons
-<code><i class="icon-ok"></i> Icon OK</code>
+<blockquote><i class="icon-ok"></i> Icon OK</blockquote>
 
 3. Icons Text with Link URL
-<code><a href="www.example.com"><i class="icon-ok"></i> Icon OK</a></code>
+<blockquote><a href="www.example.com"><i class="icon-ok"></i> Icon OK</a></blockquote>
 
-4. Icons Text with Link URL (New Window/Tab.
-<code><a href="www.example.com" target="_blank"><i class="icon-ok"></i> Icon OK</a></code>
+4. Icons Text with Link URL (New Window/Tab)
+<blockquote><a href="www.example.com" target="_blank"><i class="icon-ok"></i> Icon OK</a></blockquote>
 
 5. Larger Icons
-<code><p><i class="icon-ok icon-large"></i> Icon OK</p>
+<blockquote><p><i class="icon-ok icon-large"></i> Icon OK</p>
 <p><i class="icon-ok icon-2x"></i> Icon OK Large</p>
 <p><i class="icon-ok icon-3x"></i> Icon OK Larger</p>
-<p><i class="icon-ok icon-4x"></i> Icon OK Largest</p></code>
+<p><i class="icon-ok icon-4x"></i> Icon OK Largest</p></blockquote>
 
 6. Lists
-<code><ul class="icons" style="list-style:none">
+<blockquote><ul class="icons" style="list-style:none">
     <li><i class="icon-ok"></i> Lists</li>
     <li><i class="icon-ok"></i> Buttons</li>
     <li><i class="icon-ok"></i> Button groups</li>
     <li><i class="icon-ok"></i> Navigation</li>
     <li><i class="icon-ok"></i> Prepended form inputs</li>
-</ul></code>
+</ul></blockquote>
 
  
 ### Shortcode
 
 1. Icons Only
-<code>[icon name="icon-ok"]</code>
+
+<blockquote>[icon name="icon-ok"]</blockquote>
+
 
 2. Inline Icons
-<code>[icon name="icon-ok"] Icon OK[/icon]</code>
+
+<blockquote>[icon name="icon-ok"] Icon OK[/icon]</blockquote>
+
 
 3. Icons Text with Link URL
-<code>[icon name="icon-ok" url="www.example.com"] Icon OK[/icon]</code>
 
-4. Icons Text with Link URL (New Window/Tab.
-<code>[icon name="icon-ok" url="www.example.com" target="_blank"] Icon OK[/icon]</code>
+<blockquote>[icon name="icon-ok" url="www.example.com"] Icon OK[/icon]</blockquote>
+
+
+4. Icons Text with Link URL (New Window/Tab)
+
+<blockquote>[icon name="icon-ok" url="www.example.com" target="_blank"] Icon OK[/icon]</blockquote>
+
 
 5. Larger Icons
-<p>[icon name="icon-ok icon-large"] Icon OK[/icon]</p>
+
+<blockquote><p>[icon name="icon-ok icon-large"] Icon OK[/icon]</p>
 <p>[icon name="icon-ok icon-2x"] Icon OK Large[/icon]</p>
 <p>[icon name="icon-ok icon-3x"] Icon OK Larger[/icon]</p>
-<p>[icon name="icon-ok icon-4x"] Icon OK Largest[/icon]</p></code>
+<p>[icon name="icon-ok icon-4x"] Icon OK Largest[/icon]</p></blockquote>
+
 
 6. Lists
-<code>[iconlists name="icon-ok"] Lists|Buttons|Button groups|NavigationPrepended form inputs[/iconlists]</code>
+
+<blockquote>[iconlists name="icon-ok"] Lists|Buttons|Button groups|NavigationPrepended form inputs[/iconlists]</blockquote>
 
 
 Current version : 1.0.0
