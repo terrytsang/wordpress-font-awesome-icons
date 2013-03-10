@@ -70,7 +70,7 @@ Example Shortcode
 
 ### Lists ###
 
-<blockquote>[iconlists name="icon-ok"] Lists|Buttons|Button groups|NavigationPrepended form inputs[/iconlists]</blockquote>
+<blockquote>[iconlists name="icon-ok"] Lists|Buttons|Button groups|Navigation|Prepended form inputs[/iconlists]</blockquote>
 
 
 Current version : 1.0.0

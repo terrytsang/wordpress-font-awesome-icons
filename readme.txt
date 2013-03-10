@@ -1,7 +1,7 @@
 === Plugin Name ===
 Contributors: terrytsang
 Plugin Name: Wordpress Font Awesome Icons
-Plugin URI:  http://shop.terrytsang.com/
+Plugin URI:  http://www.terrytsang.com/
 Tags: wordpress, font awesome, icons, lists, buttons, social
 Requires at least: 3.0
 Tested up to: 3.5.1
@@ -72,7 +72,7 @@ Shortcode
 <p>[icon name="icon-ok icon-4x"] Icon OK Largest[/icon]</p>
 
 6) Lists
-[iconlists name="icon-ok"] Lists|Buttons|Button groups|NavigationPrepended form inputs[/iconlists]
+[iconlists name="icon-ok"] Lists|Buttons|Button groups|Navigation|Prepended form inputs[/iconlists]
 
 
 Current version : 1.0.0
@@ -84,9 +84,6 @@ Current version : 1.0.0
 2. Activate the plugin through the 'Plugins' menu in WordPress
 3. You can use shortcode or html in text editor, widget or title.
 4. That's it. You're ready to go and cheers!
-
-
-== Screenshots ==
 
 
 == Changelog ==
