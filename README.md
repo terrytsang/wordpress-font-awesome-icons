@@ -42,7 +42,7 @@ Example Shortcode
 
 ### Icons Only ###
 
-<blockquote>[icon name="icon-ok"]</blockquote>
+<blockquote>[icon name="icon-ok"][/icon]</blockquote>
 
 
 ### Inline Icons ###
